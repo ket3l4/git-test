@@ -1,2 +1,3 @@
 # git-test
-testing git as a beginner
+- Testing git as a beginner
+- Hello Odin!
